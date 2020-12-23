@@ -1,0 +1,3 @@
+MinYear,MaxYear,Species,MinLen,MaxLen,LenType
+1969,1981,SB,38,Inf,fork
+1982,2020,SB,42,Inf,fork
